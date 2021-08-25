@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Alexandra
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning HTML & CSS
+- 💞️ I’m looking to collaborate on a Website Development Project
+- 📫 How to reach me: alexanofori@gmail.com WhatsApp / Call: +233 (0) 55 733 6017
+-  Skills: C++
+-  Fun Fact: listening music.
